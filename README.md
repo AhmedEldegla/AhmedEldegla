@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  🇪🇬 Egypt
+  🇪🇬
 </p>
 
 <p align="center">
@@ -14,12 +14,21 @@
 </p>
 
 <p align="center">
+    <a href="https://discord.com/users/348486071039950858" target="_blank">
+    <img src="https://skillicons.dev/icons?i=discord" width="40"/>
+  </a>
   <a href="https://www.linkedin.com/in/ahmed-eldegla-2a751b184/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="40"/>
   </a>
   <a href="https://instagram.com/ahmed__eldegla" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" width="40"/>
   </a>
+
+  <!-- minimal status badges (static – clean – no RPC) -->
+<p align="center">
+  <img src="https://img.shields.io/badge/currently-online-3ba55d?style=flat&labelColor=1f1f1f" />
+  <img src="https://img.shields.io/badge/coding-.NET-512bd4?style=flat&labelColor=1f1f1f" />
+</p>
 </p>
 
 ---
@@ -29,7 +38,7 @@
 I’m a **.NET Full Stack Developer** with a strong focus on **backend development**.  
 I enjoy building **clean, maintainable, and scalable systems** using modern .NET technologies.
 
-- Backend-first mindset  
+- Full Stack  
 - RESTful APIs & database-driven systems  
 - Clean Architecture & SOLID principles  
 - Interested in SaaS & system design  
@@ -41,6 +50,8 @@ I enjoy building **clean, maintainable, and scalable systems** using modern .NET
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cs,dotnet,js,html,css,angular,sqlserver&perline=8" />
 </p>
+
+
 
 ---
 
