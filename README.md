@@ -44,7 +44,7 @@ I enjoy building **clean, maintainable, and scalable systems** using modern .NET
 
 ---
 
-## 💼 Proposal Mindset (HURLEC Method)
+## 💼 Proposal Mindset
 
 <p align="left">
 🧲 <b>Hook:</b> I build scalable and high-performance backend systems using .NET to solve real-world business problems.<br/><br/>
