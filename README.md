@@ -44,24 +44,6 @@ I enjoy building **clean, maintainable, and scalable systems** using modern .NET
 
 ---
 
-## 💼 Proposal Mindset
-
-<p align="left">
-🧲 <b>Hook:</b> I build scalable and high-performance backend systems using .NET to solve real-world business problems.<br/><br/>
-
-🧠 <b>Understanding:</b> I understand the importance of reliable APIs, secure data handling, and clean architecture in modern applications.<br/><br/>
-
-🎯 <b>Result:</b> I deliver stable, maintainable, and efficient backend solutions that improve performance and support long-term growth.<br/><br/>
-
-🔗 <b>Portfolio:</b> View my backend systems and real-world projects at 
-<a href="https://www.ahmedeldegla.com/" target="_blank">ahmedeldegla.com</a><br/><br/>
-
-💼 <b>Experience:</b> I have hands-on experience building RESTful APIs, working with SQL Server, and applying Clean Architecture principles in .NET projects.<br/><br/>
-
-📞 <b>CTA:</b> Let’s connect and build something impactful together.
-</p>
-
----
 
 ## 🧠 What I Code With
 
